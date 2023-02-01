@@ -1,4 +1,5 @@
 # game_reaction
+This is a reaction game created using VueJs.
 
 This template should help get you started developing with Vue 3 in Vite.
 
